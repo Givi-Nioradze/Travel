@@ -205,7 +205,13 @@ section {
 	margin-bottom: 15px;
 }
 
-
+#headerthanks {
+	
+	background: linear-gradient(rgba(0,0,0,.5), rgba(0,0,0,.5)), url(../images/ushguli.jpg) no-repeat center center;
+	background-size: cover;
+	height: 150vh;
+	padding: 0px;
+}
 
 
 
